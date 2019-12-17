@@ -130,7 +130,7 @@ new AssetsPlugin({fullPath: false})
 
 e.g.
 
-`/public/path/bundle.js` vs `bundle.js vs`
+`/public/path/bundle.js` vs `bundle.js`
 
 #### `includeManifest`
 
